@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "632010335431",
+    "firebase_url": "https://appbanhang-ca5e7.firebaseio.com",
+    "project_id": "appbanhang-ca5e7",
+    "storage_bucket": "appbanhang-ca5e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632010335431:android:9b1949e2551a4674afcae2",
+        "android_client_info": {
+          "package_name": "com.quyet.banhang.app_banhang"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "632010335431-1af4h69rtng3bqcis4mttotonvbrua5r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.quyet.banhang.app_banhang",
+            "certificate_hash": "32f7a73e9ac378b94c9177d1f435cbadd9a269b9"
+          }
+        },
+        {
+          "client_id": "632010335431-s27oavlnq0073a6qld9ju1ba38isrkod.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXu52hFJttVIDfbDarqycHVNqrteEiwU4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "632010335431-s27oavlnq0073a6qld9ju1ba38isrkod.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
