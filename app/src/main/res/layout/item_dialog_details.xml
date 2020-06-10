@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:padding="8dp"
+    android:gravity="center"
+    android:background="@color/colorAccent"
+    android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <TextView
+        android:textStyle="bold"
+        android:textSize="25sp"
+        android:text="Nhập Loại"
+        android:textColor="@color/white"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+    <EditText
+
+        android:textColor="@color/white"
+        android:textColorHint="@color/white"
+        android:hint="Size"
+        android:layout_marginTop="20dp"
+        android:id="@+id/edSize"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+    <EditText
+        android:textColor="@color/white"
+        android:textColorHint="@color/white"
+        android:hint="Color"
+        android:layout_marginTop="8dp"
+        android:id="@+id/edColor"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+    <EditText
+        android:inputType="number"
+        android:textColor="@color/white"
+        android:textColorHint="@color/white"
+        android:hint="Price"
+        android:layout_marginTop="8dp"
+        android:id="@+id/edPrice"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+    <EditText
+        android:inputType="number"
+        android:textColor="@color/white"
+        android:textColorHint="@color/white"
+        android:hint="Count"
+        android:layout_marginTop="8dp"
+        android:id="@+id/edCount"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+    <Button
+        android:background="#f00"
+        android:layout_marginTop="8dp"
+        style="@style/FirebaseUI.Button.AccountChooser"
+        android:id="@+id/btnXacNhan"
+        android:text="Xác Nhận"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+</LinearLayout>

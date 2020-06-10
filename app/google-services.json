@@ -8,6 +8,43 @@
   "client": [
     {
       "client_info": {
+        "mobilesdk_app_id": "1:632010335431:android:12fca990a4ed6270afcae2",
+        "android_client_info": {
+          "package_name": "com.quyet.banhang.admin_app_ban_hang"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "632010335431-k9dn6utq4i13vvpvl3243j8bgrnjl0ai.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.quyet.banhang.admin_app_ban_hang",
+            "certificate_hash": "32f7a73e9ac378b94c9177d1f435cbadd9a269b9"
+          }
+        },
+        {
+          "client_id": "632010335431-s27oavlnq0073a6qld9ju1ba38isrkod.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXu52hFJttVIDfbDarqycHVNqrteEiwU4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "632010335431-s27oavlnq0073a6qld9ju1ba38isrkod.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
         "mobilesdk_app_id": "1:632010335431:android:9b1949e2551a4674afcae2",
         "android_client_info": {
           "package_name": "com.quyet.banhang.app_banhang"

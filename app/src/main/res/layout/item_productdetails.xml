@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <TextView
+        android:gravity="center"
+        android:id="@+id/tvSize"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.2"
+        android:layout_width="0dp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:gravity="center"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.2"
+        android:layout_width="0dp"
+        android:id="@+id/tvColor"
+        android:textStyle="bold" />
+
+    <TextView
+        android:gravity="center"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.2"
+        android:layout_width="0dp"
+        android:id="@+id/tvPrice"
+        android:textStyle="bold" />
+
+    <TextView
+        android:gravity="center"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.2"
+        android:layout_width="0dp"
+        android:id="@+id/tvCount"
+        android:textStyle="bold" />
+
+    <Button
+        android:background="@drawable/minus"
+        android:layout_height="40dp"
+        android:layout_width="40dp"
+        android:id="@+id/btnRemove"
+        android:textStyle="bold" />
+
+</LinearLayout>
